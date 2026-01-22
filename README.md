@@ -1,6 +1,6 @@
 # Manejo_de_excepcion
 
-aprendí a gestionar errores en tiempo de ejecución para evitar que las aplicaciones se detengan de forma inesperada.
+Gestionar errores en tiempo de ejecución para evitar que las aplicaciones se detengan de forma inesperada.
 
 ### Conceptos Clave:
 * **try-except:** Captura de errores específicos.
